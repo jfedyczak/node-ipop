@@ -1,0 +1,22 @@
+{
+	"name": "ipop",
+	"version": "0.0.1",
+	"description": "IP subnet calculator",
+	"main": "./lib/ipop.js",
+
+	"keywords": ["IP", "IPv4"],
+
+	"scripts": {
+	},
+
+	"repository": {
+	"type": "git",
+	"url": "https://github.com/jfedyczak/node-ipop"
+	},
+	"author": "Jakub Fedyczak <jakub@fedyczak.net>",
+	"license": "BSD-2-Clause",
+	"readmeFilename": "README.md",
+
+	"dependencies": {
+	}
+}
