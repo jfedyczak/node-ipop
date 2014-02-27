@@ -40,7 +40,7 @@ true
 
 ### ip4incidr(ip, cidr)
 
-`check if `ip` is in given `cidr`. Returns `boolean`. `cidr` has to be in format `X.X.X.X/X`.
+`check` if `ip` is in given `cidr`. Returns `boolean`. `cidr` has to be in format `X.X.X.X/X`.
 
 ### cidr4(cidr)
 
